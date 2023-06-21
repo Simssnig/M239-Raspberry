@@ -6,8 +6,8 @@ SD Karte mit dem Raspberry Pi OS beschreiben
   - Unter den Einstellungen SSH & Benutzer konfigurieren
 
 ## RaspAP installieren
-""" bash
+''' bash
 sudo apt-get update
 sudo apt-get full-upgrade
 
-"""
+'''
