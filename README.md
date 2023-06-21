@@ -9,5 +9,9 @@ SD Karte mit dem Raspberry Pi OS beschreiben
 ``` bash
 sudo apt-get update
 sudo apt-get full-upgrade
-
+sudo reboot
+# WLAN Localication Konfigurieren
+sudo raspi-config (5/L4/CH)
+# RaspAP Quick installer
+curl -sL https://install.raspap.com | bash
 ```
